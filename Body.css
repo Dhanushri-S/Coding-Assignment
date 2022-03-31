@@ -1,0 +1,170 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.mainPro {
+    display: flex;
+}
+
+.Product {
+    width: 250px;
+    height: 350px;
+    border: rgb(113, 136, 145) solid 1px;
+    border-radius: 3px;
+    position: relative;
+    top: 20px;
+    left:50px;
+}
+
+.Product #id {
+    width: 248.5px;
+    height: 248.5px;
+}
+
+.Product .size {
+    width: 63px;
+    height: 63px;
+    border: rgb(113, 136, 145) solid 0.5px;
+    border-radius: 3px;
+    position: relative;
+    left: 10px;
+    justify-content: space-between;
+}
+
+.Details {
+    position: relative;
+    top:20px;
+    left: 100px;
+    bottom: 100px;
+}
+
+.align {
+    display: flex;
+}
+
+.Cost {
+    display: flex;
+}
+
+.Cost #arrow {
+    height: 15.57px;
+    background: #4978E8;
+    border: 1px solid #4978E8;
+}
+
+.selectSize  .btn {
+
+    width: 67px;
+    height: 34px;
+    color: #AAAAAA;
+    border: grey solid 1px;
+    border-radius: 3px;
+    text-align: center;
+    
+}
+.inch{
+    display: flex;
+    /* padding: 0px 0px; */
+    
+}
+
+.qty {
+    display: flex;
+}
+
+#btn2 {
+    width: 98px;
+    height: 38px;
+    border: gray solid 0.5px;
+    border-radius: 3px;
+    justify-content: center;
+    position: relative;
+    bottom:10px;
+}
+
+.code {
+    display: flex;
+}
+
+.code h4 {
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 21px;
+
+}
+
+.btn {
+    display: flex;
+
+}
+
+.btn1 {
+    width: 250px;
+    height: 40px;
+    border: none;
+    border-radius: 3px;
+    text-align: center;
+    background-color: #47AFFF;
+
+}
+.icon img{
+    padding: 0px 15px;
+}
+.Buying{
+    position: relative;
+    top: 20px;
+    left: 250px;
+}
+
+#heading {
+    width: 331px;
+    height: 323px;
+    border: gray solid 1px;
+    border-radius: 3px;
+}
+#heading h3{
+    position: relative;
+    top:14px;
+    left:75px;
+}
+.sellertwo{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+.sellertwo #cost1{
+    position: relative;
+    
+}
+.sellertwo .cart{
+    width:2rem;
+
+}
+.sellerthree{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+.sellertwo #cost1{
+    position: relative;
+    
+}
+.sellerthree .cart{
+    width:2rem;
+}
+#footer{
+    position: relative;
+    top:10px;
+    left: 65px;
+}
+.Delivery{
+    position: relative;
+    top:20px;
+}
+.a{
+    padding-left:20px;
+    top:0px ;
+}

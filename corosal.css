@@ -1,0 +1,129 @@
+.slides
+{
+    display: flex;
+    margin: 20px 0px 20px 0px;
+}
+#la
+{
+    height: 50px;
+    margin-top: 270px;
+    margin-left: 10px;
+    width: 50px;
+    margin-right: 10px;
+}
+#slide-1
+{
+    margin: 100px 5px;
+    height: 350px;
+    width: 350px;
+    border-radius: 10px;
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+}
+#slide-1:hover{
+   height: 350px;
+   width: 350px; 
+}
+#img1
+{
+    margin-top: 20px;
+}
+#h2pic1
+{
+    padding-top: 1px;
+}
+
+#p1pic1
+{
+    padding-bottom: 1px;
+}
+
+
+
+#slide-2
+{
+    
+    margin: 100px 20px;
+    height: 350px;
+    width: 350px;
+    border-radius: 10px;
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+}
+#slide-2:hover{
+    height: 350px;
+    width: 350px; 
+    transform: scale(.95);
+ }
+#img2
+{
+    margin-top: 20px;
+}
+#slide-3
+{
+    
+    margin: 100px 20px;
+    height: 350px;
+    width: 350px;
+    border-radius: 10px;
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+}
+#slide-3:hover{
+    height: 350px;
+    width: 350px; 
+    transform: scale(.95);
+ }
+#img3
+{
+    margin-top: 20px;
+}
+#slide-4
+{
+    
+    margin: 100px 20px;
+    height: 350px;
+    width: 350px;
+    border-radius: 10px;
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+}
+#slide-4:hover{
+    height: 350px;
+    width: 350px; 
+    transform: scale(.95);
+ }
+#img4
+{
+    margin-top: 20px;
+}
+#slide-5
+{
+
+    margin: 100px 20px;
+    height: 350px;
+    width: 350px;
+    border-radius: 10px;
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+}
+#slide-5:hover{
+    height: 350px;
+    width: 350px; 
+    transform: scale(.95);
+ }
+#img5
+{
+    margin-top: 20px;
+}
+#ra
+{
+    height: 50px;
+    margin-top: 270px;
+    margin-left: 10px;
+}
